@@ -24,7 +24,7 @@
 
 ### My OS in main pc (DualBoot)
 
-Windows 
+## Windows 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
@@ -32,7 +32,7 @@ Windows
 
 ### My OS in on other devices (including VM)
 
-Windows 
+## Windows 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) 
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white) 
@@ -53,10 +53,14 @@ Windows
 
 ### My PC
 
-![Intel](https://img.shields.io/badge/intel-%230068B5.svg?style=for-the-badge&logo=intel&logoColor=white) I3 12100F
+![Intel](https://img.shields.io/badge/intel-%230068B5.svg?style=for-the-badge&logo=intel&logoColor=white) 
 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) RTX 5060
+## I3 12100F
 
-RAM 32gb
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 
-SSD 512gb + 1TB
+## RTX 5060
+
+## RAM 32gb
+
+## SSD 512gb + 1TB
