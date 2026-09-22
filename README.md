@@ -4,10 +4,6 @@
 
 # Hello, my name is Zakhar, I’m 13 years old. I’m interested in programming, PC hardware, Linux/BSD/Unix, and many other things. I started my journey in programming when I was 12. I mostly play games, but I also spend a lot of time programming. 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakhar-nhl&show_icons=true&rank_icon=github&theme=dark" alt="Zakhar's GitHub Stats" />
-</p>
-
 ---
 
 ### My IDE
